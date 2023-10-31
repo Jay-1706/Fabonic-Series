@@ -1,0 +1,2 @@
+# Fabonic-Series
+Practice Qs
