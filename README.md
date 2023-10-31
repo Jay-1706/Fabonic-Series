@@ -1,3 +1,3 @@
-# Fabonic-Series & Armstrong No
+# Fabonic-Series 
 
 Practice Qs
